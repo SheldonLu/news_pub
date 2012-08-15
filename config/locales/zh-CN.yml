@@ -10,6 +10,7 @@
       :reset: '重置 %{model}'
       :required: 'required'
   active_admin:
+    Dashboard: "控制面板"
     dashboard: "控制面板"
     dashboard_welcome:
       welcome: "欢迎使用Active Admin. 这是默认的控制面板页."
